@@ -42,8 +42,8 @@ int _tmain() {
         y = 6;
     } else {
         cout << "Podano nieprawidlowy rok" << endl;
-		getch();
-		_tmain();
+        getch();
+        _tmain();
         return 0;
     }
     
@@ -64,7 +64,7 @@ int _tmain() {
         cout << "Wielkanoc w roku: " << date << " jest dnia " << (d + f - 9) << " kwietnia" << endl;
     }
     
-	_tmain();
-	getch();
+    _tmain();
+    getch();
     return 0;
 }
