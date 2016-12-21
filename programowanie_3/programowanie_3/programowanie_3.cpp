@@ -18,7 +18,7 @@ int _tmain() {
     int d;
     int f;
 
-	cout << "Program podajacy date Wielkanocy wedlug wpisanego roku" << endl << endl;
+    cout << "Program podajacy date Wielkanocy wedlug wpisanego roku" << endl << endl;
     cout << "Podaj rok: ";
     cin >> date;
     
